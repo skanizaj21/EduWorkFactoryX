@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\dataaccess\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\dataaccess\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\eduwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|solutionrelative:eduwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\eduwork\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|solutionrelative:eduwork\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|solutionrelative:eduwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +34,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Model\\Project.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Model\\Project.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Model\\Project.cs",
-              "RelativeToolTip": "DataAccess\\Model\\Project.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:49:59.966Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAuwEYAAAABAAAA",
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Model\\Role.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Model\\Role.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Model\\Role.cs",
+              "RelativeToolTip": "DataAccess\\Model\\Role.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:46:05.864Z",
+              "WhenOpened": "2024-05-23T13:38:17.375Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "EduWork\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "EduWork\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:45:59.538Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\Program.cs",
               "RelativeDocumentMoniker": "EduWork\\Program.cs",
               "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\Program.cs",
               "RelativeToolTip": "EduWork\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:42:14.119Z"
+              "WhenOpened": "2024-05-21T14:42:14.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\appsettings.json",
+              "RelativeDocumentMoniker": "EduWork\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\appsettings.json",
+              "RelativeToolTip": "EduWork\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T12:50:59.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:46:05.864Z",
+              "EditorCaption": ""
             }
           ]
         }

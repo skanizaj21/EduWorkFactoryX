@@ -31,6 +31,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\DataAccess.csproj"
+              },
               "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\EduWork.csproj": {
                 "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\EduWork.csproj"
               }

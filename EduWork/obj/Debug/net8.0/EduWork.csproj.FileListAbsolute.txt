@@ -235,7 +235,6 @@ C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.AssemblyInfoInputs.cache
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.AssemblyInfo.cs
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.csproj.CoreCompileInputs.cache
-C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.sourcelink.json
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\staticwebassets.build.json
@@ -252,3 +251,5 @@ C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\refint\
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.pdb
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.genruntimeconfig.cache
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\ref\EduWork.dll
+C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\bin\Debug\net8.0\DataAccess.pdb

@@ -5874,6 +5874,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "DataAccess >= 1.0.0",
       "EduWork >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.5"
     ]
@@ -5909,6 +5910,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\DataAccess.csproj"
+            },
             "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\EduWork.csproj": {
               "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\EduWork.csproj"
             }
