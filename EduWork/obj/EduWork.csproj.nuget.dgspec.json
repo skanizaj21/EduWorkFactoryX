@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\EduWork\\EduWork.csproj": {}
+    "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\EduWork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\EduWork\\EduWork.csproj": {
+    "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\EduWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\EduWork\\EduWork.csproj",
+        "projectUniqueName": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\EduWork.csproj",
         "projectName": "EduWork",
-        "projectPath": "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\EduWork\\EduWork.csproj",
+        "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\EduWork.csproj",
         "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\EduWork\\obj\\",
+        "outputPath": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,6 +61,12 @@
               "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.5, )"
             },

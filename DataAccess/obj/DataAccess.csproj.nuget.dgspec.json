@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sebastian\\Desktop\\Power poinr,Word and more\\NPK\\Zadaca\\1. Zadace\\EduWorkWebAPI\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,6 +53,12 @@
               "version": "[6.4.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.5, )"
             }
