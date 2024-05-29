@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DataAccess",
+    "\\DataAccess\\Model"
   ],
-  "SelectedNode": "\\EduWorkWebAPI.sln",
+  "SelectedNode": "\\DataAccess\\Model\\Role.cs",
   "PreviewInSolutionExplorer": false
 }

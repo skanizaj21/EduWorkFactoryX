@@ -253,3 +253,4 @@ C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\ref\EduWork.dll
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\bin\Debug\net8.0\DataAccess.dll
 C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Sebastian\Source\Repos\EduWorkFactoryX\EduWork\obj\Debug\net8.0\EduWork.MvcApplicationPartsAssemblyInfo.cs

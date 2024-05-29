@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\dataaccess\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\dataaccess\\controllers\\worktimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\controllers\\worktimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\eduwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|solutionrelative:eduwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|solutionrelative:eduwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\dataaccess\\migrations\\20240523134507_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20240523134507_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\eduwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E4F5FEFC-3918-468D-939B-8DBD13143E51}|EduWork\\EduWork.csproj|solutionrelative:eduwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -35,36 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Model\\Role.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Model\\Role.cs",
-              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Model\\Role.cs",
-              "RelativeToolTip": "DataAccess\\Model\\Role.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBAAAAAWAAAA",
+              "Title": "WorkTimeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Controllers\\WorkTimeController.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Controllers\\WorkTimeController.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Controllers\\WorkTimeController.cs",
+              "RelativeToolTip": "DataAccess\\Controllers\\WorkTimeController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwBYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T13:38:17.375Z",
+              "WhenOpened": "2024-05-29T15:34:11.525Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240523134507_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Migrations\\20240523134507_FirstMigration.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20240523134507_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Migrations\\20240523134507_FirstMigration.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20240523134507_FirstMigration.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:38:49.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\Program.cs",
               "RelativeDocumentMoniker": "EduWork\\Program.cs",
               "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\Program.cs",
               "RelativeToolTip": "EduWork\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T14:42:14.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWork\\appsettings.json",
               "RelativeDocumentMoniker": "EduWork\\appsettings.json",
@@ -77,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\ApplicationDbContext.cs",
               "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T14:46:05.864Z",
               "EditorCaption": ""
