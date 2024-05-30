@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\DataAccess.csproj", "{7F2C8F6B-D9D5-44A5-9171-76453D1433A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduWorkBlazor", "EduWorkBlazor\EduWorkBlazor.csproj", "{02E50AB5-EBC3-41A7-B186-C7C7D581F551}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EduWorkBlazor", "EduWorkBlazor\EduWorkBlazor.csproj", "{02E50AB5-EBC3-41A7-B186-C7C7D581F551}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\pages\\worktimeadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\pages\\worktimeadd.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\pages\\worktimelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\pages\\worktimelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\services\\worktimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\services\\worktimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\commonmodels\\worktime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|solutionrelative:eduworkblazor\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02E50AB5-EBC3-41A7-B186-C7C7D581F551}|EduWorkBlazor\\EduWorkBlazor.csproj|c:\\users\\sebastian\\source\\repos\\eduworkfactoryx\\eduworkblazor\\eduworkblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -51,19 +59,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WorkTimeAdd.razor",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Pages\\WorkTimeAdd.razor",
+              "RelativeDocumentMoniker": "EduWorkBlazor\\Pages\\WorkTimeAdd.razor",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Pages\\WorkTimeAdd.razor",
+              "RelativeToolTip": "EduWorkBlazor\\Pages\\WorkTimeAdd.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T16:04:44.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkTimeList.razor",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Pages\\WorkTimeList.razor",
+              "RelativeDocumentMoniker": "EduWorkBlazor\\Pages\\WorkTimeList.razor",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Pages\\WorkTimeList.razor",
+              "RelativeToolTip": "EduWorkBlazor\\Pages\\WorkTimeList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T16:04:30.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WorkTimeService.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Services\\WorkTimeService.cs",
               "RelativeDocumentMoniker": "EduWorkBlazor\\Services\\WorkTimeService.cs",
               "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Services\\WorkTimeService.cs",
               "RelativeToolTip": "EduWorkBlazor\\Services\\WorkTimeService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T15:55:48.802Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "WorkTime.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\CommonModels\\WorkTime.cs",
               "RelativeDocumentMoniker": "EduWorkBlazor\\CommonModels\\WorkTime.cs",
@@ -76,12 +110,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "EduWorkBlazor",
               "DocumentMoniker": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\EduWorkBlazor.csproj",
               "RelativeDocumentMoniker": "EduWorkBlazor\\EduWorkBlazor.csproj",
-              "ToolTip": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\EduWorkBlazor.csproj*",
-              "RelativeToolTip": "EduWorkBlazor\\EduWorkBlazor.csproj*",
+              "ToolTip": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\EduWorkBlazor.csproj",
+              "RelativeToolTip": "EduWorkBlazor\\EduWorkBlazor.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-05-30T15:30:53.686Z",
@@ -97,13 +131,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Program.cs",
               "RelativeDocumentMoniker": "EduWorkBlazor\\Program.cs",
               "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Program.cs",
               "RelativeToolTip": "EduWorkBlazor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T15:33:01.612Z",
               "EditorCaption": ""
@@ -123,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\_Imports.razor",
               "RelativeDocumentMoniker": "EduWorkBlazor\\_Imports.razor",
@@ -136,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "EduWorkBlazor\\Layout\\MainLayout.razor",
@@ -149,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\EduWorkBlazor\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "EduWorkBlazor\\Pages\\Counter.razor",
@@ -162,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "WorkTimeController.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\EduWorkFactoryX\\DataAccess\\Controllers\\WorkTimeController.cs",
               "RelativeDocumentMoniker": "DataAccess\\Controllers\\WorkTimeController.cs",
