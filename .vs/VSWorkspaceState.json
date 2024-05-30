@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\DataAccess",
-    "\\DataAccess\\Model"
+    "\\DataAccess\\Model",
+    "\\EduWork"
   ],
-  "SelectedNode": "\\DataAccess\\Model\\Role.cs",
+  "SelectedNode": "\\EduWork\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

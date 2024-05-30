@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\obj\\Debug\\net8.0\\compressed\\9e95x8d13y.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EduWorkBlazor.styles.css",
+      "PackagePath": "staticwebassets\\EduWorkBlazor.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Sebastian\\Source\\Repos\\EduWorkFactoryX\\EduWorkBlazor\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EduWorkBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EduWorkBlazor.props",
+      "PackagePath": "build\\EduWorkBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EduWorkBlazor.props",
+      "PackagePath": "buildMultiTargeting\\EduWorkBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EduWorkBlazor.props",
+      "PackagePath": "buildTransitive\\EduWorkBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
